@@ -1,0 +1,11 @@
+algoritmo "COMBINAÇÕES"
+var
+    C1, C2: Inteiro
+inicio
+      Para C1 := 1 Ate 3 faca
+          Para C2 := 1 Ate 3 faca
+          escrevaL(C1, C2)
+          FimPara
+      FimPara
+
+fimalgoritmo
